@@ -7,9 +7,9 @@ Awesome Magisk Hide / SefetyNet Fix / PlayIntegrity Fix
 - [Tools](#tools)
   - [PlayIntegrityFix](#playintegrityfix-by-chiteroman)
   - [MagiskHide (Portable)](#magiskhide-portable-by-huskydg)
-  - [Sensitive Props]([#sensitive-props-by-huskydg)
+  - [Sensitive Props](#sensitive-props-by-huskydg)
   - [SafetyNet-Fix](#safetynet-fix-by-kdrag0n)
-  - [Fork SafetyNet-Fix](#updated-fork-safetynet-fix-by-displax))
+  - [Fork SafetyNet-Fix](#updated-fork-safetynet-fix-by-displax)
 
 ## Tools
 
