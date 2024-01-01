@@ -1,6 +1,8 @@
 
 # Awesome Magisk Hide
 
+Awesome Magisk Hide / SefetyNet Fix / PlayIntegrity Fix 
+
 ## Contents
 - [Tools](#tools)
   - [PlayIntegrityFix](#playintegrityfix-by-chiteroman)
