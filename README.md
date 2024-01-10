@@ -17,6 +17,7 @@ Awesome Magisk Hide / SefetyNet Fix / PlayIntegrity Fix
 #### PlayIntegrityFix by [chiteroman](https://github.com/chiteroman)
 
 - Open Source ✅
+- Maintenance ✅
 
 [GitHub](https://github.com/chiteroman/PlayIntegrityFix)
 
@@ -25,16 +26,20 @@ Awesome Magisk Hide / SefetyNet Fix / PlayIntegrity Fix
 #### MagiskHide (Portable) by [HuskyDG](https://github.com/HuskyDG)
 
 - Open Source ✅
+- Maintenance ❌
 
-[GitHub](https://github.com/HuskyDG/MagiskHide/tree/047c9cb9d3087683aeb3d232c9f23c5c05f660cf)
+~~[GitHub](https://github.com/HuskyDG/MagiskHide/tree/047c9cb9d3087683aeb3d232c9f23c5c05f660cf)~~
 
-I recommend version [1.10.3](https://github.com/HuskyDG/MagiskHide/releases/tag/v1.10.3)
+~~I recommend version [1.10.3](https://github.com/HuskyDG/MagiskHide/releases/tag/v1.10.3)~~
+
+Repository deleted :(
 
 #
 
 #### Shamiko by [LSPosed Devs](https://github.com/LSPosed)
 
 - Open Source ❌
+- Maintenance ❌
 
 [GitHub](https://github.com/LSPosed/LSPosed.github.io/releases) (Not Open Source)
 
@@ -44,6 +49,7 @@ I recommend version [1.10.3](https://github.com/HuskyDG/MagiskHide/releases/tag/
 #### Sensitive Props by [HuskyDG](https://github.com/HuskyDG)
 
 - Open Source ✅
+- Maintenance ❌
 
 [GitHub](https://github.com/Magisk-Modules-Alt-Repo/sensitive_props)
 
@@ -52,6 +58,7 @@ I recommend version [1.10.3](https://github.com/HuskyDG/MagiskHide/releases/tag/
 #### SafetyNet-Fix by [kdrag0n](https://github.com/kdrag0n)
 
 - Open Source ✅
+- Maintenance ❌
 
 [GitHub](https://github.com/kdrag0n/safetynet-fix)
 
@@ -60,6 +67,7 @@ I recommend version [1.10.3](https://github.com/HuskyDG/MagiskHide/releases/tag/
 #### Updated Fork SafetyNet-Fix by [Displax](https://github.com/Displax)
 
 - Open Source ✅
+- Maintenance ❌
 
 [GitHub](https://github.com/Displax/safetynet-fix)
 
