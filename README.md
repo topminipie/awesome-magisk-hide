@@ -17,7 +17,7 @@ Awesome Magisk Hide / SefetyNet Fix / PlayIntegrity Fix
 #### PlayIntegrityFix by [chiteroman](https://github.com/chiteroman)
 
 - Open Source ✅
-- Maintenance ✅
+- Maintained ✅
 
 [GitHub](https://github.com/chiteroman/PlayIntegrityFix)
 
@@ -26,7 +26,7 @@ Awesome Magisk Hide / SefetyNet Fix / PlayIntegrity Fix
 #### MagiskHide (Portable) by [HuskyDG](https://github.com/HuskyDG)
 
 - Open Source ✅
-- Maintenance ❌
+- Maintained ❌
 
 ~~[GitHub](https://github.com/HuskyDG/MagiskHide/tree/047c9cb9d3087683aeb3d232c9f23c5c05f660cf)~~
 
@@ -39,7 +39,7 @@ Repository deleted :(
 #### Shamiko by [LSPosed Devs](https://github.com/LSPosed)
 
 - Open Source ❌
-- Maintenance ❌
+- Maintained ❌
 
 [GitHub](https://github.com/LSPosed/LSPosed.github.io/releases) (Not Open Source)
 
@@ -49,7 +49,7 @@ Repository deleted :(
 #### Sensitive Props by [HuskyDG](https://github.com/HuskyDG)
 
 - Open Source ✅
-- Maintenance ❌
+- Maintained ❌
 
 [GitHub](https://github.com/Magisk-Modules-Alt-Repo/sensitive_props)
 
@@ -58,7 +58,7 @@ Repository deleted :(
 #### SafetyNet-Fix by [kdrag0n](https://github.com/kdrag0n)
 
 - Open Source ✅
-- Maintenance ❌
+- Maintained ❌
 
 [GitHub](https://github.com/kdrag0n/safetynet-fix)
 
@@ -67,7 +67,7 @@ Repository deleted :(
 #### Updated Fork SafetyNet-Fix by [Displax](https://github.com/Displax)
 
 - Open Source ✅
-- Maintenance ❌
+- Maintained ❌
 
 [GitHub](https://github.com/Displax/safetynet-fix)
 
