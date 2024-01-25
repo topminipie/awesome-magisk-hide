@@ -16,6 +16,8 @@ Awesome Magisk Hide / SefetyNet Fix / PlayIntegrity Fix
 
 #### PlayIntegrityFix by [chiteroman](https://github.com/chiteroman)
 
+Fix Play Integrity, SefetyNet
+
 - Open Source ✅
 - Maintained ✅
 
@@ -24,6 +26,8 @@ Awesome Magisk Hide / SefetyNet Fix / PlayIntegrity Fix
 #
 
 #### MagiskHide (Portable) by [HuskyDG](https://github.com/HuskyDG)
+
+Hide Root
 
 - Open Source ✅
 - Maintained ❌
@@ -38,6 +42,8 @@ Repository deleted :(
 
 #### Shamiko by [LSPosed Devs](https://github.com/LSPosed)
 
+Hide Root
+
 - Open Source ❌
 - Maintained ❌
 
@@ -48,6 +54,8 @@ Repository deleted :(
 
 #### Sensitive Props by [HuskyDG](https://github.com/HuskyDG)
 
+Fix SefetyNet
+
 - Open Source ✅
 - Maintained ❌
 
@@ -57,6 +65,8 @@ Repository deleted :(
 
 #### SafetyNet-Fix by [kdrag0n](https://github.com/kdrag0n)
 
+Fix Play Integrity, SefetyNet
+
 - Open Source ✅
 - Maintained ❌
 
@@ -65,6 +75,8 @@ Repository deleted :(
 #
 
 #### Updated Fork SafetyNet-Fix by [Displax](https://github.com/Displax)
+
+Fix SefetyNet
 
 - Open Source ✅
 - Maintained ❌
