@@ -76,7 +76,7 @@ Fix Play Integrity, SefetyNet
 
 #### Updated Fork SafetyNet-Fix by [Displax](https://github.com/Displax)
 
-Fix SefetyNet
+Fix Play Integrity, SefetyNet
 
 - Open Source ✅
 - Maintained ❌
