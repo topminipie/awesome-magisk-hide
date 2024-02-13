@@ -34,9 +34,9 @@ Hide Root
 
 ~~[GitHub](https://github.com/HuskyDG/MagiskHide/tree/047c9cb9d3087683aeb3d232c9f23c5c05f660cf)~~
 
-~~I recommend version [1.10.3](https://github.com/HuskyDG/MagiskHide/releases/tag/v1.10.3)~~
-
 Repository deleted :(
+
+([My archive](https://github.com/topminipie/MagiskHide/tree/archive))
 
 #
 
