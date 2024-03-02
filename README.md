@@ -8,6 +8,7 @@ Awesome Magisk Hide / SefetyNet Fix / PlayIntegrity Fix
   - [PlayIntegrityFix](#playintegrityfix-by-chiteroman)
   - [MagiskHide (Portable)](#magiskhide-portable-by-huskydg)
   - [Shamiko](#shamiko-by-lsposed-devs)
+  - [BootloaderSpoofer](#bootloaderspoofers-by-by-chiteroman)
   - [Sensitive Props](#sensitive-props-by-huskydg)
   - [SafetyNet-Fix](#safetynet-fix-by-kdrag0n)
   - [Fork SafetyNet-Fix](#updated-fork-safetynet-fix-by-displax)
@@ -32,11 +33,9 @@ Hide Root
 - Open Source ✅
 - Maintained ❌
 
-~~[GitHub](https://github.com/HuskyDG/MagiskHide/tree/047c9cb9d3087683aeb3d232c9f23c5c05f660cf)~~
+~~[GitHub](https://github.com/HuskyDG/MagiskHide/tree/047c9cb9d3087683aeb3d232c9f23c5c05f660cf)~~ Repository deleted :(
 
-Repository deleted :(
-
-([My archive](https://github.com/topminipie/MagiskHide/tree/archive))
+[My archive](https://github.com/topminipie/MagiskHide/tree/archive)
 
 #
 
@@ -49,6 +48,17 @@ Hide Root
 
 [GitHub](https://github.com/LSPosed/LSPosed.github.io/releases) (Not Open Source)
 
+
+#
+
+#### BootloaderSpoofers by by [chiteroman](https://github.com/chiteroman)
+
+Spoof locked bootloader on local attestations
+
+- Open Source ✅
+- Maintained ❓
+
+[GitHub](https://github.com/chiteroman/BootloaderSpoofer)
 
 #
 
