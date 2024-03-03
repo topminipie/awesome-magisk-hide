@@ -35,7 +35,7 @@ Hide Root
 
 ~~[GitHub](https://github.com/HuskyDG/MagiskHide/tree/047c9cb9d3087683aeb3d232c9f23c5c05f660cf)~~ Repository deleted :(
 
-[My archive](https://github.com/topminipie/MagiskHide/tree/archive)
+[My archive](https://github.com/topminipie/MagiskHide/tree/047c9cb9d3087683aeb3d232c9f23c5c05f660cf)
 
 #
 
